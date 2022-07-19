@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/recepts_site/static/css/main.bc039941.css",
+    "main.css": "/recepts_site/static/css/main.fa705017.css",
     "main.js": "/recepts_site/static/js/main.894f66a7.js",
     "index.html": "/recepts_site/index.html",
-    "main.bc039941.css.map": "/recepts_site/static/css/main.bc039941.css.map",
+    "main.fa705017.css.map": "/recepts_site/static/css/main.fa705017.css.map",
     "main.894f66a7.js.map": "/recepts_site/static/js/main.894f66a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc039941.css",
+    "static/css/main.fa705017.css",
     "static/js/main.894f66a7.js"
   ]
 }
